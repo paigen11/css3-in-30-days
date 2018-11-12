@@ -4,6 +4,8 @@
 
    ====================================== */
 
+   /* https://www.w3schools.com/cssref/css3_pr_filter.asp */
+
    .sandbox img {
        -webkit-transition: all 0.3s ease;
        transition: all 0.3s ease;
